@@ -6,7 +6,7 @@
   
   Building apps, tools, and systems with AI-first architecture.
   
-  [![Website](https://img.shields.io/badge/Website-kinglabs.com-0080FF?style=for-the-badge)](https://kinglabs.com)
+  [![Website](https://img.shields.io/badge/Website-kinglabsai.com-0080FF?style=for-the-badge)](https://kinglabsai.com)
   [![Twitter](https://img.shields.io/badge/Twitter-@kinglabs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kinglabs)
   [![Email](https://img.shields.io/badge/Email-hello@kinglabsai.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kinglabsai.com)
 </div>
@@ -75,8 +75,8 @@ const techStack = {
 
 ## 📚 Resources
 
-- 📖 [**Documentation**](https://kinglabs.com/docs) — Guides, tutorials, and API docs
-- ✍️ [**Blog**](https://kinglabs.com/blog) — AI development insights and case studies  
+- 📖 [**Documentation**](https://kinglabsai.com/docs) — Guides, tutorials, and API docs
+- ✍️ [**Blog**](https://kinglabsai.com/blog) — AI development insights and case studies  
 - 🎨 [**Brand Assets**](https://github.com/kinglabs-ai/brand-assets) — Logos, colors, and guidelines
 - 🚀 [**Templates**](https://github.com/kinglabs-ai/templates) — Starter projects and boilerplates
 
@@ -94,7 +94,7 @@ Have questions or want to collaborate?
 
 - 📧 **Email:** hello@kinglabsai.com
 - 🐦 **Twitter:** [@kinglabs](https://twitter.com/kinglabs)
-- 🌐 **Website:** [kinglabs.com](https://kinglabs.com)
+- 🌐 **Website:** [kinglabsai.com](https://kinglabsai.com)
 
 ---
 
