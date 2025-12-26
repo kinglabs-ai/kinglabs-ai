@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kinglabs-ai/kinglabs-ai/main/logo-icon.png" alt="KingLabs AI" width="120"/>
   
   # KingLabs AI
   
@@ -85,8 +84,6 @@ const techStack = {
 
 ## 🌟 Featured Projects
 
-<!-- Add your featured repos here as you build them -->
-
 Coming soon... building in public. 🚧
 
 ---
@@ -101,6 +98,13 @@ Have questions or want to collaborate?
 
 ---
 
+<div align="center">
+  
+  ### Built with AI. Powered by code. 🤖⚡
+  
+  <sub>© 2025 KingLabs AI. All rights reserved.</sub>
+  
+</div>
 <div align="center">
   
   ### Built with AI. Powered by code. 🤖⚡
