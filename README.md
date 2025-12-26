@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kinglabs.com/logo-icon.png" alt="KingLabs AI" width="120"/>
+  <img src="https://raw.githubusercontent.com/kinglabs-ai/kinglabs-ai/main/logo-icon.png" alt="KingLabs AI" width="120"/>
   
   # KingLabs AI
   
