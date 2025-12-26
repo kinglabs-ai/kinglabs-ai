@@ -92,7 +92,7 @@ Coming soon... building in public. 🚧
 
 Have questions or want to collaborate?
 
-- 📧 **Email:** hello@kinglabs.com
+- 📧 **Email:** hello@kinglabsai.com
 - 🐦 **Twitter:** [@kinglabs](https://twitter.com/kinglabs)
 - 🌐 **Website:** [kinglabs.com](https://kinglabs.com)
 
