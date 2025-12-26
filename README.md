@@ -8,7 +8,7 @@
   
   [![Website](https://img.shields.io/badge/Website-kinglabs.com-0080FF?style=for-the-badge)](https://kinglabs.com)
   [![Twitter](https://img.shields.io/badge/Twitter-@kinglabs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kinglabs)
-  [![Email](https://img.shields.io/badge/Email-hello@kinglabs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kinglabs.com)
+  [![Email](https://img.shields.io/badge/Email-hello@kinglabsai.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@kinglabsai.com)
 </div>
 
 ---
